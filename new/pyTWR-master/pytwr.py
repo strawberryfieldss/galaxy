@@ -370,10 +370,14 @@ def solve_TW(intens=None,
               y_bins=4,
               X_max=None,
               ymin=0.,
-              verbose=False,
+              verbose=True,
               r_scale=1.,
               ax=None,
-              img_scale=1.5):
+              img_scale=1.5,
+              x1=-3,
+              x2=3,
+              y1=-150,
+              y2=150):
 
     cen_x, cen_y = center
 
@@ -482,7 +486,6 @@ def solve_TW(intens=None,
 
         y_pred = linm(ols_result.params[1], ols_result.params[0], pps)
         plt.plot(pps, y_pred, '--', color='r')
-
         y_pred_max = linm(ols_result.params[1] - ols_result.bse[1], ols_result.params[0], pps)
         y_pred_min = linm(ols_result.params[1] + ols_result.bse[1], ols_result.params[0], pps)
         plt.fill_between(pps, y_pred_max, y_pred_min, alpha=0.3, color='r')
@@ -491,9 +494,9 @@ def solve_TW(intens=None,
 
         ax.set_xlabel('<x>, kpc')
         ax.set_ylabel('<V>, km/s')
-
+        ax.set_xlim(x1,x2)
+        ax.set_ylim(y1,y2)
         plt.show()
-
     omega, omega_se = ols_result.params[1], ols_result.bse[1]
 
     return omega, omega_se
