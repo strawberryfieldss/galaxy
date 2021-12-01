@@ -1,0 +1,632 @@
+﻿"Номер в оригинальном списке " Name "Corotation rad" Единицы "Ошибка снизу" "Ошибка сверху" "Dist, Mpc" Data "Pattern speed, (km/s/kpc)" "Ошибка снизу" "Ошибка сверху" "Это бар?" Method Ссылка
+[125] "NGC 224" 4188 arcsec 0.00 0.00 "0.67
+(Mpc) " "H II
+" "NaN
+" 0 0 "нет
+" "McCall (1982)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+"
+[76] "NGC 598" 1518 arcsec 0.00 0.00 "0.72
+(Mpc)" "H II
+" "NaN
+" 0 0 "нет
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[92] " "NGC 598" 1080 arcsec 0.00 0.00 "0.76
+(Mpc)" "H II
+" "28
+(km/s/kpc)" 0 0 "нет
+" "Puerari (1993)
+" "https://ui.adsabs.harvard.edu/abs/1993PASP..105.1290P/abstract
+"
+[21] "NGC 598" 1800 arcsec 0.00 0.00 "NaN
+" "H II
+" "15
+(km/s/kpc)" 0 0 "нет
+" "Courtes & Dubout-Crillon (1971)
+" "https://ui.adsabs.harvard.edu/abs/1971A%26A....11..468C/abstract
+https://ui.adsabs.harvard.edu/abs/1993PASP..105.1290P/abstract"
+[19] "NGC 628" 141 arcsec 0.00 0.00 "7.21
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "Cepa & Beckman (1990)
+" "https://ui.adsabs.harvard.edu/abs/1990Ap%26SS.170..209C/abstract
+https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract"
+"[76] " "NGC 2403" 294 arcsec 0.00 0.00 "3.2
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[76] " "NGC 2903" "139.8 " arcsec 0.00 0.00 "7.52
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[76] " "NGC 5055" 184.2 arcsec 0.00 0.00 "6.82
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[76] " "NGC 5194" 233.4 arcsec 0.00 0.00 "7.9
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[125] " "NGC 5236" 205.2 arcsec 0.00 0.00 "3.8
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1982)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+"
+"[76] " "NGC 5457" 467.4 arcsec 0.00 0.00 "4.1
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[76] " "NGC 6946" 250.8 arcsec 0.00 0.00 "5.9
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+"[76] " "IC 342" 910.2 arcsec 0.00 0.00 "2.7
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "McCall (1985)
+" "https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..121V/abstract
+https://ui.adsabs.harvard.edu/abs/1985ApJS...57....1M/abstract"
+[124] "NGC 1365" 112.66 arcsec 8.30 8.30 "0.1074
+(kpc/'')" "H II
+" "25.0
+(km/s/kpc)" 1.8999999999999999 1.8999999999999999 "нет
+" "Vera-Villamizar et al. (2001)
+" "https://ui.adsabs.harvard.edu/abs/2001ApJ...547..187V/abstract
+"
+[124] "NGC 1566" 97.20 arcsec 4.10 4.10 "0.0967
+(kpc/'')" "H II
+" "12.2
+(km/s/kpc)" 0.9 0.9 "нет
+" "Vera-Villamizar et al. (2001)
+" "https://ui.adsabs.harvard.edu/abs/2001ApJ...547..187V/abstract
+"
+[124] "NGC 2997" 95.89 arcsec 0.00 0.00 "0.073
+(kpc/'')" "H II
+" "17.6
+(km/s/kpc)" 0 0 "нет
+" "Vera-Villamizar et al. (2001)
+" "https://ui.adsabs.harvard.edu/abs/2001ApJ...547..187V/abstract
+"
+[1] "NGC 7479" 60 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "нет
+" "Aguerri et al. (1996)
+" "https://ui.adsabs.harvard.edu/abs/1996ASPC...91..557A/abstract
+"
+[2] "NGC 1300" 100 arcsec 10.00 10.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "нет
+" "Aguerri et al. (2000) 
+" "https://ui.adsabs.harvard.edu/abs/2000A%26A...361..841A/abstract
+"
+[2] "NGC 7479" 63 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "нет
+" "Aguerri et al. (2000) 
+" "https://ui.adsabs.harvard.edu/abs/2000A%26A...361..841A/abstract
+"
+[2] "NGC 7723" 23 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "нет
+" "Aguerri et al. (2000) 
+" "https://ui.adsabs.harvard.edu/abs/2000A%26A...361..841A/abstract
+"
+[14] "NGC 4321" 98 arcsec 10.00 10.00 "17.1
+(Mpc)" "H I, H alpha
+" "2.5
+(km/s/arcsec)" 0 0 "нет
+" "Canzian & Allen (1997)
+" "https://ui.adsabs.harvard.edu/abs/1997ApJ...479..723C/abstract
+"
+[96] "NGC 157" 77.35 arcsec 0.00 0.00 "24.0
+(Mpc)" "H II
+" "22.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 224" 4185.08 arcsec 0.00 0.00 "0.69
+(Mpc)" "H II
+" "18.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 598" 802.14 arcsec 0.00 0.00 "0.72
+(Mpc)" "H II
+" "32.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 925" 233.56 arcsec 0.00 0.00 "6.8
+(Mpc)" "H II
+" "14.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 972" 37.33 arcsec 0.00 0.00 "22.1
+(Mpc)" "H II
+" "29.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 1084" 55.86 arcsec 0.00 0.00 "19.2
+(Mpc)" "H II
+" "27.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 1832" 48.91 arcsec 0.00 0.00 "25.3
+(Mpc)" "H II
+" "31.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 2403" 304.63 arcsec 0.00 0.00 "3.25
+(Mpc)" "H II
+" "25.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 2903" 140.99 arcsec 0.00 0.00 "7.9
+(Mpc)" "H II
+" "38.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 3031" 625.24 arcsec 0.00 0.00 "3.2
+(Mpc)" "H II
+" "26.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 3109" 562.54 arcsec 0.00 0.00 "2.2
+(Mpc)" "H II
+" "8.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 3389" 35.75 arcsec 0.00 0.00 "15.0
+(Mpc)" "H II
+" "65.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 3521" 177.14 arcsec 0.00 0.00 "8.5
+(Mpc)" "H II
+" "33.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 3593" 35.36 arcsec 0.00 0.00 "7.0
+(Mpc)" "H II
+" "80.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 4236" 609.27 arcsec 0.00 0.00 "3.25
+(Mpc)" "H II
+" "9.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 4631" 342.21 arcsec 0.00 0.00 "4.4
+(Mpc)" "H II
+" "15.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 5005" 114.59 arcsec 0.00 0.00 "14.4
+(Mpc)" "H II
+" "27.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 5055" 186.48 arcsec 0.00 0.00 "7.3
+(Mpc)" "H II
+" "32.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 5194" 232.05 arcsec 0.00 0.00 "4.0
+(Mpc)" "H II
+" "42.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 5457" 463.35 arcsec 0.00 0.00 "6.9
+(Mpc)" "H II
+" "13.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 6946" 251.19 arcsec 0.00 0.00 "10.1
+(Mpc)" "H II
+" "17.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 7331" 148.97 arcsec 0.00 0.00 "14.4
+(Mpc)" "H II
+" "19.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "NGC 7479" 91.41 arcsec 0.00 0.00 "35.2
+(Mpc)" "H II
+" "12.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[96] "IC 342" 572.95 arcsec 0.00 0.00 "4.5
+(Mpc)" "H II
+" "15.0
+(km/s/kpc)" 0 0 "нет
+" "Roberts et al. (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...196..381R/abstract
+"
+[90] "NGC 628" 68.00 arcsec 0.00 0.00 "18.2
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "Puerari & Dottori (1992) 
+" "https://ui.adsabs.harvard.edu/abs/1992A%26AS...93..469P/abstract
+"
+[90] "NGC 2997" 67.85 arcsec 0.00 0.00 "7.6
+(Mpc)" "H II
+" "NaN
+" 0 0 "NaN
+" "Puerari & Dottori (1992) 
+" "https://ui.adsabs.harvard.edu/abs/1992A%26AS...93..469P/abstract
+"
+[68] "NGC 1365" 145 arcsec 0.00 0.00 "20
+(Mpc)" "H I, CO
+" "20
+(km/s/kpc)" 0 0 "нет
+" "Lindblad et al. (1996)
+" "https://ui.adsabs.harvard.edu/abs/1996A%26A...313...65L/abstract
+"
+[68] "NGC 1365" 157 arcsec 0.00 0.00 "20
+(Mpc)" "H I, CO
+" "18
+(km/s/kpc)" 0 0 "нет
+" "Lindblad et al. (1996)
+" "https://ui.adsabs.harvard.edu/abs/1996A%26A...313...65L/abstract
+"
+[57] "NGC 1365" 138 arcsec 0.00 0.00 "20
+(Mpc)" "H I
+" "21
+(km/s/kpc)" 1 1 "нет
+" "Jorsater & van Moorsel (1995) 
+" "https://ui.adsabs.harvard.edu/abs/1995AJ....110.2037J/abstract
+"
+[129] "NGC 3031" 717.167 arcsec 0.00 0.00 "NaN
+" "H I
+" "18
+(km/s/kpc)" 0 0 "NaN
+" "Visser (1980)
+" "https://ui.adsabs.harvard.edu/abs/1980A%26A....88..149V/abstract
+"
+[52] "NGC 3031" 666.4 arcsec 0.00 0.00 "3.25
+(Mpc)" "H I
+" "18.9
+(km/s/kpc)" 0 0 "NaN
+" "Gottesman & Weliachew (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...195...23G/abstract
+"
+[52] "NGC 3031" 723.5 arcsec 0.00 0.00 "3.25
+(Mpc)" "H I
+" "18.3
+(km/s/kpc)" 0 0 "NaN
+" "Gottesman & Weliachew (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975ApJ...195...23G/abstract
+"
+[97] "NGC 3031" 653.7 arcsec 0.00 0.00 "3.25
+(Mpc)" "H I
+" "20
+(km/s/kpc)" 0 0 "нет
+" "Rots (1975)
+" "https://ui.adsabs.harvard.edu/abs/1975A%26A....45...43R/abstract
+"
+[110] "NGC 598" 1766.5 arcsec 0.00 0.00 "0.794
+(Mpc)" "H II
+" "16
+(km/s/kpc)" 0 0 "нет
+" "Shu et al. (1971)
+" "https://ui.adsabs.harvard.edu/abs/1971ApJ...166..465S/abstract
+"
+[110] "NGC 5194" 232.05 arcsec 0.00 0.00 "4.00
+(Mpc)" "H II
+" "33
+(km/s/kpc)" 0 0 "нет
+" "Shu et al. (1971)
+" "https://ui.adsabs.harvard.edu/abs/1971ApJ...166..465S/abstract
+"
+[110] "NGC 3031" 878.39 arcsec 0.00 0.00 "2.63
+(Mpc)" "H II
+" "21.5
+(km/s/kpc)" 0 0 "нет
+" "Shu et al. (1971)
+" "https://ui.adsabs.harvard.edu/abs/1971ApJ...166..465S/abstract
+"
+[131] "NGC 3031" 533.115 arcsec 0.00 0.00 "3.25
+(Mpc)" "H I
+" "23.4
+(km/s/kpc)" 2.2999999999999998 2.2999999999999998 "нет
+" "Westpfahl (1998)
+" "https://ui.adsabs.harvard.edu/abs/1998ApJS..115..203W/abstract
+"
+[99] "NGC 3359" 20 arcsec 0.00 0.00 "13.4
+(Mpc)" "H II
+" "27
+(km/s/kpc)" 0 0 "нет
+" "Rozas (2008)
+" "https://ui.adsabs.harvard.edu/abs/2008RMxAA..44...71R/abstract
+"
+[51] "NGC 4254" 10.491 arcsec 0.1345 0.1346 "16
+(Mpc)" "H I
+" "16.45
+(km/s/kpc)" 0.75 0.75 "нет
+" "Gonzalez & Graham (1996)
+" "https://ui.adsabs.harvard.edu/abs/1996ApJ...460..651G/abstract
+"
+[105] "NGC 4321" 97.976 arcsec 15.5 15.5 "20
+(Mpc)" "H I
+" "20
+(km/s/kpc)" 0 0 "NaN
+" "Sempere et al. (95 a)
+" "https://ui.adsabs.harvard.edu/abs/1995A%26A...296...45S/abstract
+"
+[105] "NGC 4321" 113.45 arcsec 0.00 0.00 "20
+(Mpc)" "H I
+" "20
+(km/s/kpc)" 0 0 "NaN
+" "Sempere et al. (95 a)
+" "https://ui.adsabs.harvard.edu/abs/1995A%26A...296...45S/abstract
+"
+[44] "NGC 4321" 14.47 arcsec 0.00 0.00 "17.1
+(Mpc)" "CO
+" "160
+(km/s/kpc)" 0 0 "нет
+" "Garcia-Burillo et al. (1998)
+" "https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract
+"
+[44] "NGC 4321" 102.53 arcsec 6.0 6.0 "17.1
+(Mpc)" "CO
+" "23
+(km/s/kpc)" 0 0 "да
+" "Garcia-Burillo et al. (1998)
+" "https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract
+"
+[55] "NGC 4321" 44 arcsec 0.00 0.00 "16.1
+(Mpc)" "H alpha
+" "4.3
+(km/s/arsec)" 1 1 "NaN
+" "Hernandez et al. (2005) 
+" "https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
+"
+[55] "NGC 4321" 97 arcsec 0.00 0.00 "16.1
+(Mpc)" "H alpha
+" "2.30
+(km/s/arsec)" 0.18 0.18 "да
+" "Hernandez et al. (2005) 
+" "https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
+"
+[55] "NGC 4321" 130 arcsec 0.00 0.00 "16.1
+(Mpc)" "H alpha
+" "1.6
+(km/s/arsec)" 0.06 0.06 "нет
+" "Hernandez et al. (2005) 
+" "https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
+"
+[50] NGC4736 252 arcsec 0.00 0.00 "6.3
+(Mpc)" "H II
+" "1.35
+(km/s/arcsec)" 0 0 "NaN
+" "Gerin et al. (1991)
+" "https://ui.adsabs.harvard.edu/abs/1991A%26A...251...32G/abstract
+"
+[132] "NGC 4736" 26 arcsec 0.00 0.00 "6.6
+(Mpc)" "CO
+" "400
+(km/s/kpc)" 0 0 "нет
+" "Wong & Blitz (2000)
+" "https://ui.adsabs.harvard.edu/abs/2000ApJ...540..771W/abstract
+"
+[78] "NGC 4736" 25 arcsec 0.00 0.00 "6.6
+(Mpc)" "H alpha, H I
+" "290 (km/s/kpc)" 0 0 "нет
+" "Moellenhoff et al. (1995)
+" "https://ui.adsabs.harvard.edu/abs/1995A%26A...301..359M/abstract
+"
+[33] "NGC 3031" 534 arcsec 0.00 0.00 "3.25
+(Mpc)" "NaN
+" "26
+(km/s/kpc)" 0 0 "нет
+" "Elmegreen et al. (1989) 
+" "https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract
+"
+[33] "NGC 4321" 123.12 arcsec 0.00 0.00 "20
+(Mpc)" "NaN
+" "26
+(km/s/kpc)" 0 0 "нет
+" "Elmegreen et al. (1989) 
+" "https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract
+"
+[33] "NGC 5194" 123.916 arcsec 0.00 0.00 "4
+(Mpc)" "NaN
+" "90
+(km/s/kpc)" 0 0 "нет
+" "Elmegreen et al. (1989) 
+" "https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract
+"
+[119] "NGC 5194" 123.759 arcsec 0.00 0.00 "4
+(Mpc)" "H alpha
+" "90
+(km/s/kpc)" 0 0 "нет
+" "Tully (1974)
+" "https://ui.adsabs.harvard.edu/abs/1974ApJS...27..449T/abstract
+"
+[46] "NGC 5194" 158.996 arcsec 0.00 0.00 "9.6
+(Mpc)" "CO
+" "27
+(km/s/kpc)" 0 0 "нет
+" "Garcia-Burillo et al. (93 b)
+" "https://ui.adsabs.harvard.edu/abs/1993A%26A...274..148G/abstract
+"
+[103] "NGC 5194" 100 arcsec 0.00 0.00 "9.6
+(Mpc)" "H I
+" "50
+(km/s/kpc)" 0 0 "нет
+" "Salo & Laurikainen (2000)
+" "https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..393S/abstract
+"
+[69] "NGC 5236 " 145 arcsec 5.00 5.00 "5
+(Mpc)" "H alpha
+" "51
+(km/s/kpc)" 3 3 "нет
+" "Lord & Kenney (1991) 
+" "https://ui.adsabs.harvard.edu/abs/1991ApJ...381..118K/abstract
+"
+[56] "NGC 5236 " 180 arcsec 0.00 0.00 "3.75
+(Mpc)" "H alpha
+" "67
+(km/s/kpc)" 0 0 "нет
+" "Jensen et al. (1981)
+" "https://ui.adsabs.harvard.edu/abs/1981ApJ...243..716J/abstract
+"
+[118] "NGC 6946" 54 arcsec 0.00 0.00 "5.5
+(Mpc)" "H alpha
+" "21.7 
+(km/s/kpc)" 0.80 4 "NaN
+" "Toonen et al. (2008)
+" "https://ui.adsabs.harvard.edu/abs/2008ASPC..390..322T/abstract
+"
+[123] "NGC 266" 42 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 1530" 77 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 2543" 27 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 2543" 46 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 5020" 48 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 7479" 18 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[123] "NGC 7479" 44 arcsec 0.00 0.00 "NaN
+" "NaN
+" "NaN
+" 0 0 "NaN
+" "Vera-Villamizar et al. (2003)
+" "https://ui.adsabs.harvard.edu/abs/2003RMxAC..17..201V/abstract
+"
+[93] "NGC 7479" 45 arcsec 0.00 0.00 "32
+(Mpc)" "CO, H I
+" "100
+(km/s/kpc)" 0 0 "да
+" "Quillen et al. (1995)
+" "https://ui.adsabs.harvard.edu/abs/1995ApJ...441..549Q/abstract
+"
+[91] "NGC 7479" 23 arcsec 0.00 0.00 "NaN
+" "H II
+" "NaN
+" 0 0 "нет
+" "Puerari & Dottori (1997) 
+" "https://ui.adsabs.harvard.edu/abs/1997ApJ...476L..73P/abstract
+"
+[91] "NGC 7479" 55 arcsec 0.00 0.00 "NaN
+" "H II
+" "NaN
+" 0 0 "да
+" "Puerari & Dottori (1997) 
+" "https://ui.adsabs.harvard.edu/abs/1997ApJ...476L..73P/abstract
+"
+             
+             
+             
+             
+             
+             
+             
+             
+             
